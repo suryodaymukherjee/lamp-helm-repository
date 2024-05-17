@@ -359,4 +359,4 @@ keepSecrets: false
 
 ## replicaCount > 1 will corrupt your database if one is used. Future releases
 ## might enable elastic scaling via galeradb
-replicaCount: 1
+replicaCount: 2
